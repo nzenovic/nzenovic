@@ -7,9 +7,9 @@ output:
 # {.tabset .tabset-fade .tabset-pills}
 
 ## About Me
-  ![](https://nzenovic.github.io/nzenovic/headshot.jpg)
+  ![](https://nzenovic.github.io/nzenovic/headshot.jpg){width=200px}
   
-  
+
   
 
 I have an MA in Social Sciences - Anthropology from the University of Chicago. 
