@@ -1,22 +1,44 @@
 ---
 title: "Nikolina Zenovic"
-author: 
-output: html_document
+output: 
+    html_document:
+      css: styles.css
 ---
+# {.tabset .tabset-fade .tabset-pills}
 
-# Biography
+## About Me
+Here are some words
 
+## Curriculum Vitae
+<div class="main" style="padding:25px;">
 
-# CV
-<div>
-<iframe src="CV June 2020 - Zenovic copy.pdf" style="width: 70%; height:1000px; margin-left: auto;margin-left: auto;" frameborder="0">
-</iframe>
+  
+  <div>
+       
+  <iframe src="https://nzenovic.github.io/nzenovic/Resume-Zenoviccopy.pdf" style="width: 100%; height:700px; margin-left: auto;margin-left: auto;" frameborder="0"></iframe>
+       
+
+    
+  
+  </div>
+
+  <div>
+        
+         
+  <h3 style="text-align:center; color: #000000;">
+            Last Updated: July 31, 2020  
+  <a href="https://nzenovic.github.io/nzenovic/Resume-Zenoviccopy.pdf">
+  Link 
+  </a>
+ 
+  </h3>
+      
+    
+  </div>
+ 
 </div>
 
 
-# Publications and Presentations
+## Contact Information
+Contact me here
 
-
-# Contact
-
-<link rel="stylesheet"href="https://willythewoo.github.io/WillyTheWoo/workshop/styles.css">
