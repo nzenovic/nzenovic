@@ -7,8 +7,10 @@ output:
 # {.tabset .tabset-fade .tabset-pills}
 
 ## About Me
-![](https://nzenovic.github.io/nzenovic/headshot.jpg)
-
+  ![](https://nzenovic.github.io/nzenovic/headshot.jpg)
+  
+  
+  
 
 I have an MA in Social Sciences - Anthropology from the University of Chicago. 
 
@@ -52,7 +54,10 @@ I am also passionate about ethnographic research methods, research ethics, and a
 
 ## Contact Information
 You may contact me here: 
-[Email:] (zenovic@uchicago.edu)
-[LinkedIn:] (https://www.linkedin.com/in/nikolina-zenovic/)
+
+Email: zenovic@uchicago.edu
+
+LinkedIn: https://www.linkedin.com/in/nikolina-zenovic/
+
 
 
