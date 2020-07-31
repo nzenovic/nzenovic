@@ -7,7 +7,18 @@ output:
 # {.tabset .tabset-fade .tabset-pills}
 
 ## About Me
-Here are some words
+![](https://nzenovic.github.io/nzenovic/headshot.jpg)
+
+
+I have an MA in Social Sciences - Anthropology from the University of Chicago. 
+
+I obtained my B.A. in Anthropology and Peace & Conflict Studies from the University of California, Berkeley in 2018. In addition to my double major, I minored in Bosnian/Croatian/Serbian Languages and Literatures. 
+
+I am interested in socio-cultural and linguistic anthropology and regionally focus in the Balkans and former Yugoslavia. I am fascinated by understandings of identity, language ideologies, nationalism, diaspora, immigration, and social movements.
+
+I am also passionate about ethnographic research methods, research ethics, and academic mentorship.  
+
+
 
 ## Curriculum Vitae
 <div class="main" style="padding:25px;">
@@ -40,5 +51,8 @@ Here are some words
 
 
 ## Contact Information
-Contact me here
+You may contact me here: 
+[Email:] (zenovic@uchicago.edu)
+[LinkedIn:] (https://www.linkedin.com/in/nikolina-zenovic/)
+
 
